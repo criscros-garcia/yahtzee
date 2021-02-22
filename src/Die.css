@@ -26,7 +26,8 @@
 .Die:not(.Die-locked):hover {
   cursor: pointer;
   opacity: 0.8;
-}
+} 
+
 .Die-rolling {
   animation: spin 1s ease-out;
 }
